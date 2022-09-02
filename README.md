@@ -1,3 +1,3 @@
 # Scientific_Computing_with_Python
 
-<font size="7">__This is excercises from freeCodeCamp__</font>
+<font size="7">__Excercises from freeCodeCamp__</font>
